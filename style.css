@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+body{
+    font-family: 'Manrope', sans-serif;
+}
+h1{
+    color: white;
+    font-size: 50px !important;
+}
+h2{
+    color: white;
+    font-size: 96px!important;
+}
+p{
+    color: white;
+    font-size: 35px;
+    word-spacing: 5px;
+}
+.sobre{
+    text-align: center;
+
+}
+.flex {
+	display: flex;
+}
+.flex-item-1 {
+	flex: 1
+}
+.item {
+	margin: 5px;
+	text-align: center;
+	font-size: 1.5em;
+}
+.container {
+	max-width: 1050px;
+	margin: 0 auto;
+}
